@@ -18,7 +18,9 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "repository": {"url": "git@github.com:Trail3lazer/Portfolio.git"},
+  "repository": {
+    "url": "git@github.com:Trail3lazer/Portfolio.git"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
