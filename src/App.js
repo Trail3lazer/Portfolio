@@ -12,8 +12,8 @@ import Nav from './Components/Global/Nav';
 function App() {
   return (
     <div className="App">
-      <Nav />
       <Router>
+        <Nav />
         <Switch>
           <Route path='/about'><About/></Route>
           <Route path='/portfolio'><Portfolio/></Route>
